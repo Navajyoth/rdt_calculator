@@ -5,4 +5,4 @@ class Calculator(object):
         self.b = b
 
     def add(self):
-        return a + b
+        return self.a + self.b
